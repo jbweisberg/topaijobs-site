@@ -35,8 +35,8 @@ nav{position:fixed;top:0;left:0;right:0;z-index:100;backdrop-filter:blur(24px) s
 .nav-inner{max-width:1120px;margin:0 auto;padding:14px 28px;display:flex;justify-content:space-between;align-items:center}
 .logo{font-family:var(--font-mono);font-weight:700;font-size:17px;text-decoration:none;color:var(--text-primary);letter-spacing:-.03em}
 .logo b{color:var(--cyan)}
-.logo i{font-style:normal;color:var(--violet)}
-.logo em{font-style:normal;color:var(--amber)}
+
+
 .nav-r{display:flex;gap:28px;align-items:center}
 .nav-r a{font-size:13.5px;font-weight:500;color:var(--text-secondary);text-decoration:none;transition:color .2s}
 .nav-r a:hover{color:var(--text-primary)}
